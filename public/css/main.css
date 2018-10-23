@@ -1,0 +1,29 @@
+input[type="checkbox"], input[type="radio"] {
+    width: auto !important;
+}
+
+.widget a {
+	display: block;
+}
+
+.alert-danger,
+.alert-success {
+    background-color: #fff;
+}
+
+.modal-body {
+    position: relative;
+    padding: 30px;
+}
+
+.username {
+	color: black;
+}
+
+.tab-content {
+	padding: 25px 10px;
+}
+
+.mar-no{
+	font-size: 17px;
+}
